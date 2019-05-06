@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "GEN-UNIQUE"
+            "value": "kirtiazad1111"
         },
         "adminPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "kirtiazad1111"
         },
         "dnsLabelPrefix": {
-            "value": "GEN-UNIQUE"
+            "value": "kirtiazad1111"
         },
         "tomcatUserName": {
-            "value": "GEN-UNIQUE"
+            "value": "kirtiazad1111"
         },
         "tomcatPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "kirtiazad1111"
         },
         "sshPassPhrase": {
-            "value": "GEN-UNIQUE"
+            "value": "kirtiazad1111"
         }
     }
 }
