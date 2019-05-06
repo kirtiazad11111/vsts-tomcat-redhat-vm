@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "kirtiazad1111"
+            "value": "infosys"
         },
         "adminPassword": {
-            "value": "Kirtiazad@gmail"
+            "value": "infosys@gmail"
         },
         "dnsLabelPrefix": {
-            "value": "kirtiazad1111"
+            "value": "infosys"
         },
         "tomcatUserName": {
-            "value": "kirtiazad1111"
+            "value": "infosys"
         },
         "tomcatPassword": {
-            "value": "kirtiazad1111"
+            "value": "infosys"
         },
         "sshPassPhrase": {
-            "value": "kirtiazad1111"
+            "value": "infosys"
         }
     }
 }
